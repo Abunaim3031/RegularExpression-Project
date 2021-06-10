@@ -1,5 +1,5 @@
 console.log("choose an option For Valid Input:\n \n1.Post Code\n2.Phone \n3.Email ");
-let option = prompt("What is your Option");
+let option = prompt("Choose your Option");
 let inputData = prompt("Write your Data");
 
 option = parseInt(option)
